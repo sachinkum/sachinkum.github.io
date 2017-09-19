@@ -4,6 +4,6 @@ permalink: /404.html
 ---
 
 <div class="blurb">
-	<p> <img src="/images/404.png" alt="404 image" style="width:128px;height:128px;"> </p>
+	<p> <img src="/images/404.png" alt="404 image" align="middle"> </p>
 	<p><a href="/index.html">Let's go home.</a></p>
 </div><!-- /.blurb -->
