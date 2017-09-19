@@ -1,10 +1,11 @@
 ---
-# example 404.md
-
 layout: default
+title: Sachin Kumar
 permalink: /404.html
 ---
 
-# 404
-
-Page not found! :(
+<div class="blurb">
+	<h1>Hi there, I'm Sachin!</h1>
+	<p>I’m a B.Tech (Computer Science and Engineering) student at University Institute of Engineering and Technology, Kurukshetra University, India. I create Android apps, and code in C, C++, Java, Javascript & Python. I’ve been using <em>FOSS</em> since 2011, and write Unix (bash) scripts. </p>
+	<p><a href="/about">Read more about me...</a></p>
+</div><!-- /.blurb -->
