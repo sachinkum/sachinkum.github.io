@@ -212,4 +212,7 @@ p{
     padding:0px !important;
 
   }
+  td {
+    text-align: left;
+}
 }
