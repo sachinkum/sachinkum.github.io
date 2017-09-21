@@ -212,7 +212,7 @@ p{
     padding:0px !important;
 
   }
-  td {
+  .td {
     text-align: left;
     font-size: 12px;
     /*margin-top: 20px;*/
@@ -222,7 +222,7 @@ p{
     font-family: 'Roboto', sans-serif;
     font-family: 'Montserrat', sans-serif;
   }
-  th {
+  .th {
     /*text-align: left;*/
     font-size: 15px;
     /*margin-top: 20px;*/
